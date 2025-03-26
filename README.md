@@ -1,4 +1,4 @@
-Online Voting System
+#Online Voting System
 This project is an Online Voting System designed to facilitate secure and efficient electronic voting. It provides a platform for users to cast their votes online, ensuring accessibility and transparency in the electoral process.​
 
 Features
